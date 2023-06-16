@@ -1,7 +1,15 @@
-I'm Tomu Obata. I like front-end development.  
-I especially prefer `Swift`, `Flutter` and `React.js`.
+I'm Tomu Obata. I like mobile app development.  
+I especially prefer `SwiftUI`, `Kotlin Multiplatform Mobile (KMM)`.
 
+
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomu28&show_icons=true&theme=nord&count_private=true)
+
+---
+
+-->
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=tomu28)
 
 <!--
 **tomu28/tomu28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
